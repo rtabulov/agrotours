@@ -10,16 +10,61 @@
     <link rel="stylesheet" href="./css/tailwind.css" />
     <link rel="stylesheet" href="./css/main.min.css" />
     <!-- icons -->
-    <!-- <link
+    <link
       href="https://fonts.googleapis.com/icon?family=Material+Icons"
       rel="stylesheet"
-    /> -->
+    />
 
     <script src="./js/materialize.js"></script>
   </head>
   <body class="text-gray-700">
+    <!-- nav mobile -->
+    <ul id="slide-out" class="sidenav pt-16">
+      <li>
+        <a class="dropdown-trigger" href="#!" data-target="dropdown2">
+          Выберите свой агротуризм
+        </a>
+      </li>
+
+      <ul id="dropdown2" class="dropdown-content">
+        <li><a href="#!">ЮКО</a></li>
+        <li><a href="#!">Алматинская область</a></li>
+        <li class="divider"></li>
+        <li><a href="#!">three</a></li>
+      </ul>
+
+      <li>
+        <a href="#!">
+          Хотите заняться агротуризмом?
+        </a>
+      </li>
+      <li>
+        <a href="#!">
+          Зарегистрировать свою ферму
+        </a>
+      </li>
+      <li>
+        <div class="divider"></div>
+      </li>
+      <li>
+        <a class="flex items-center" href="#">
+          <i class="icon icon-telephone"></i>+7 777 777 7777
+        </a>
+      </li>
+      <li>
+        <a class="flex items-center" href="#">
+          <i class="icon icon-smartphone"></i>+7 777 777 7777
+        </a>
+      </li>
+      <li>
+        <a class="flex items-center" href="#">
+          <i class="icon icon-email"></i>info@agritourism.kz
+        </a>
+      </li>
+    </ul>
     <!-- first nav -->
-    <nav class="white grey-text text-darken-4">
+    <nav class="teal">
+      <!-- <nav class="white grey-text text-darken-4"> -->
       <div class="container nav-wrapper">
         <a href="/" class="brand-logo">
           <!-- <img class="h-12" src="./img/agritourism-logo.png" alt="logo" /> -->
@@ -28,11 +73,10 @@
         <!-- <a href="/" class="brand-logo">
           <img src="./img/world-argitourism-day.png" alt="" />
         </a> -->
-
-        <a href="#" data-target="mobile-demo" class="sidenav-trigger"
+        <a href="#" data-target="slide-out" class="sidenav-trigger"
           ><i class="material-icons">menu</i></a
         >
-        <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <ul class="right hide-on-med-and-down">
           <li>
             <a class="flex items-center" href="#">
               <i class="icon icon-telephone mr-2"></i>+7 777 777 7777
@@ -53,10 +97,10 @@
     </nav>
 
     <!-- second nav -->
-    <nav class="teal">
+    <nav class="white grey-text text-darken-4 hide-on-med-and-down">
+      <!-- <nav class="teal hide-on-med-and-down"> -->
       <div class="container nav-wrapper">
         <ul class="left hide-on-med-and-down">
-          <!-- Dropdown Trigger -->
           <li>
             <a class="dropdown-trigger" href="#!" data-target="dropdown1">
               Выберите свой агротуризм
@@ -116,12 +160,12 @@
     <!-- links | map | links -->
     <div class="container py-16">
       <div class="row">
-        <div class="col s3">
+        <div class="col m3">
           <a href="#" class="mb-4 block"><img src="./img/q1.jpg" alt=""/></a>
           <a href="#" class="mb-4 block"><img src="./img/q2.jpg" alt=""/></a>
           <a href="#" class="mb-4 block"><img src="./img/q3.jpg" alt=""/></a>
         </div>
-        <div class="col s6">
+        <div class="col m6 my-10 md:my-0">
           <h2 class="uppercase text-medium text-center text-2xl mb-4">
             Выберите свой агротуризм из областей
           </h2>
@@ -249,7 +293,7 @@
             <a href="#" class="btn">Брошюра для туристов на 2019 год</a>
           </div>
         </div>
-        <div class="col s3">
+        <div class="col m3">
           <a href="#" class="mb-4 block"><img src="./img/q4.jpg" alt=""/></a>
           <a href="#" class="mt-4 block"><img src="./img/q5.jpg" alt=""/></a>
           <a href="#" class="mt-4 block"><img src="./img/q6.jpg" alt=""/></a>
@@ -261,14 +305,14 @@
       <div class="container">
         <h2 class="text-center uppercase text-3xl">Специальные предложения</h2>
 
-        <div class="flex my-12">
-          <a class="flex-1 mr-6" href="#!">
+        <div class="flex my-12 md:flex-row flex-col">
+          <a class="flex-1 md:mr-6 md:mb-0 mb-6" href="#!">
             <img src="./img/q1.jpg" alt="" />
           </a>
-          <a class="flex-1 mr-6" href="#!">
+          <a class="flex-1 md:mr-6 md:mb-0 mb-6" href="#!">
             <img src="./img/q2.jpg" alt="" />
           </a>
-          <a class="flex-1 mr-6" href="#!">
+          <a class="flex-1 md:mr-6 md:mb-0 mb-6" href="#!">
             <img src="./img/q4.jpg" alt="" />
           </a>
           <a class="flex-1" href="#!">
@@ -325,7 +369,7 @@
               Formerly - AGRI TOURISM DEVELOPMENT CORPORATION (ATDC)
             </p>
             <div class="row mt-4">
-              <div class="col s6">
+              <div class="col s12 m6">
                 <p>
                   Sales & Marketing Office<br />
                   13 Sumadhur, 1037/362A,<br />
@@ -334,7 +378,7 @@
                   Maharashtra, INDIA.<br />
                 </p>
               </div>
-              <div class="col s6">
+              <div class="col s12 m6 mt-6 md:mt-0">
                 Telephone: +91-20- 25660342, 25660343, 25660345<br />
                 Mobile : +91-92264-32980<br />
                 Email:

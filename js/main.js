@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
   var instance = M.Carousel.getInstance(document.querySelector(".carousel"));
 
-  console.log(instance);
+  // console.log(instance);
   var intervalID = setInterval(function() {
     instance.next();
   }, 7000);
