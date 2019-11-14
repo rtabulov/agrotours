@@ -1,0 +1,43 @@
+/*------------------------
+	icons
+-------------------------*/
+@function unicode($str) {
+  @return unquote("\"\\#{$str}\"");
+}
+
+$icon-telephone: unicode(ea02);
+$icon-smartphone: unicode(ea03);
+$icon-linkedin: unicode(ea04);
+$icon-facebook: unicode(ea05);
+$icon-youtube: unicode(ea06);
+$icon-email: unicode(ea07);
+$icon-twitter: unicode(ea08);
+
+.icon-telephone::before {
+  content: $icon-telephone;
+}
+
+.icon-smartphone::before {
+  content: $icon-smartphone;
+}
+
+.icon-linkedin::before {
+  content: $icon-linkedin;
+}
+
+.icon-facebook::before {
+  content: $icon-facebook;
+}
+
+.icon-youtube::before {
+  content: $icon-youtube;
+}
+
+.icon-email::before {
+  content: $icon-email;
+}
+
+.icon-twitter::before {
+  content: $icon-twitter;
+}
+

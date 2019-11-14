@@ -1,0 +1,17 @@
+/*------------------------
+	icons
+-------------------------*/
+.icon-telephone::before { content: "\ea02"; }
+
+.icon-smartphone::before { content: "\ea03"; }
+
+.icon-linkedin::before { content: "\ea04"; }
+
+.icon-facebook::before { content: "\ea05"; }
+
+.icon-youtube::before { content: "\ea06"; }
+
+.icon-email::before { content: "\ea07"; }
+
+.icon-twitter::before { content: "\ea08"; }
+/*# sourceMappingURL=icons.min.css.map */

@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "AEAA,AAAA,GAAG,CAAC,EACF,SAAS,EAAE,IAAI,GAChB;;AAED,AAAA,GAAG,CAAC,WAAW,CAAC,EACd,KAAK,EAAE,OAAO,GACf;;AAED,AAAA,GAAG,CAAC,EAAE,CAAC,CAAC,CAAC,EACP,KAAK,EAAE,OAAO,GACf",
+    "sources": [
+        "../sass/main.scss",
+        "../sass/_base.scss",
+        "../sass/_components.scss",
+        "../sass/_layout.scss",
+        "../sass/_pages.scss",
+        "../sass/_abstracts.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}
