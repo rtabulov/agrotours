@@ -33,7 +33,7 @@
       <div class="text-center ">
         <a href="#" class="btn">Условия</a>
       </div>
-      <svg class="my-12" baseprofile="tiny" fill="#7c7c7c" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" version="1.2" viewbox="0 0 1000 550" width="1000" xmlns="http://www.w3.org/2000/svg">
+      <svg class="my-12" baseprofile="tiny" fill="#7c7c7c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 1000 550" width="1000" xmlns="http://www.w3.org/2000/svg">
         <style type="text/css">
           .st0 {
             fill: #7c7c7c;

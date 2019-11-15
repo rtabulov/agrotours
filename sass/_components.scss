@@ -23,3 +23,23 @@ nav a {
   text-shadow: rgba(#000, 0.6) 0 0 2px;
   transform: translate(-50%, -50%);
 }
+
+svg {
+  stroke: #fff !important;
+  color: #fff;
+  a:visited {
+    stroke: #fff !important;
+    color: #fff;
+    text {
+      stroke: #fff !important;
+      stroke-width: 0;
+      fill: #fff;
+    }
+    // color: transparent !important;
+    // outline-color: transparent;
+    // border-color: transparent;
+    // text-decoration-color: transparent;
+    // fill: transparent;
+    // stroke: transparent;
+  }
+}

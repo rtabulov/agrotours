@@ -44,7 +44,7 @@
             <input type="hidden" name="tour" id="tour" value="Природный тур в Коргальджинский заповедник." />
 
             <button class="btn waves-effect waves-light" type="submit">
-              Заказать звонок
+              Оставить заявку
               <i class="material-icons right">send</i>
             </button>
           </form>
