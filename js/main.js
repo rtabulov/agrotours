@@ -1,15 +1,14 @@
 document.addEventListener("DOMContentLoaded", function() {
   M.AutoInit();
-  var elems = document.querySelectorAll(".carousel");
-  var instances = M.Carousel.init(elems, {
+  var carousel = document.querySelector(".carousel");
+  var instances = M.Carousel.init(carousel, {
     fullWidth: true,
     indicators: true
   });
 
-  var instance = M.Carousel.getInstance(document.querySelector(".carousel"));
+  var inst = M.Carousel.getInstance(document.querySelector(".carousel"));
 
-  // console.log(instance);
   var intervalID = setInterval(function() {
-    instance.next();
+    inst.next();
   }, 7000);
 });
