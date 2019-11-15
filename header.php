@@ -27,11 +27,11 @@
     </li>
 
     <ul id="dropdown2" class="dropdown-content">
-      <li><a href="./aqmola.html">Акмолинская область</a></li>
-      <li><a href="./almaty.html">Алматинская область</a></li>
-      <li><a href="./vko.html">ВКО</a></li>
-      <li><a href="./karaganda.html">Карагандинская область</a></li>
-      <li><a href="./turkestan.html">Туркестанская область</a></li>
+      <li><a href="./aqmola.php">Акмолинская область</a></li>
+      <li><a href="./almaty.php">Алматинская область</a></li>
+      <li><a href="./vko.php">ВКО</a></li>
+      <li><a href="./karaganda.php">Карагандинская область</a></li>
+      <li><a href="./turkestan.php">Туркестанская область</a></li>
     </ul>
 
     <li>

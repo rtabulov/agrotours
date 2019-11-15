@@ -2,7 +2,7 @@
 
 <section class="py-16 text-xl">
   <div class="container">
-    <h1 class="text-center text-5xl font-bold mb-12">
+    <h1 class="text-center text-4xl md:text-5xl font-bold mb-12">
       О нашей компании
     </h1>
     <h2 class="text-center text-3xl font-bold my-8">

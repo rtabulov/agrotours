@@ -2,17 +2,16 @@
 
 <section class="py-16 text-xl">
   <div class="container">
-    <h1 class="text-center text-5xl font-bold mb-12">
+    <h1 class="text-center text-4xl md:text-5xl font-bold mb-12">
       Зарегистрировать свою ферму
     </h1>
 
     <div class="row">
-      <div class="col m6">
+      <div class="col s12 m6">
         <img class="w-full" src="./img/q5.jpg" alt="" />
-        <!-- <img class="w-full" src="./img/" alt="" /> -->
       </div>
 
-      <div class="col m6">
+      <div class="col s12 m6 mt-8 md:mt-0">
 
         <div class="row">
           <form action="./mail-2.php" method="POST" class="col s12">

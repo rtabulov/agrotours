@@ -3,11 +3,11 @@
 <!-- carousel -->
 <div class="carousel carousel-slider main-carousel">
   <a class="carousel-item" href="#one!">
-    <h2 class="center-the-text z-50">Скидки для детей до 50%</h2>
+    <!-- <h2 class="center-the-text z-50">Скидки для детей до 50%</h2> -->
     <img src="./img/scenic-view-of-sea-against-sky-during-sunset-333525.jpg" />
   </a>
   <a class="carousel-item" href="#two!">
-    <h2 class="center-the-text z-50">Скидки для детей до 50%</h2>
+    <!-- <h2 class="center-the-text z-50">Скидки для детей до 50%</h2> -->
     <img src="./img/photo-of-woman-sitting-on-boat-spreading-her-arms-1371360.jpg" />
   </a>
   <a class="carousel-item" href="#three!">

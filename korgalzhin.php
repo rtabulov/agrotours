@@ -2,16 +2,16 @@
 
 <section class="py-16 text-xl">
   <div class="container">
-    <h1 class="text-center text-5xl font-bold mb-12">
+    <h1 class="text-center text-4xl md:text-5xl font-bold mb-12">
       Природный тур в Коргальджинский заповедник.
     </h1>
 
     <div class="row">
-      <div class="col m5">
+      <div class="col s12 m5">
         <img class="w-full" src="./img/korgalzhin-hero.png" alt="" />
       </div>
 
-      <div class="col m7">
+      <div class="col s12 m7 mt-8 md:mt-0">
         <ul class="list-disc browser-default pl-6 font-bold text-xl">
           <li>
             1 день Нур-Султан, 1 день в заповеднике.
