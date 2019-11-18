@@ -128,7 +128,7 @@
     <h2 class="text-center uppercase text-3xl">Специальные предложения</h2>
 
     <div class="row my-12">
-      <!-- <div class="col m4 ">
+      <!-- <div class="col m3 mb-10">
         <a href="./korgalzhin.php">
           <img src="./img/korgalzhin-hero.png" alt="" />
         </a>
@@ -143,7 +143,7 @@
 
         <a href="./korgalzhin.php" class="btn">Узнать больше</a>
       </div> -->
-      <div class="col m3">
+      <div class="col m3 mb-10">
         <a href="./kolsai.php">
           <img src="./img/kolsai-hero.png" alt="" />
         </a>
@@ -157,7 +157,7 @@
 
         <a href="./kolsai.php" class="btn">Узнать больше</a>
       </div>
-      <div class="col m3">
+      <div class="col m3 mb-10">
         <a href="./karagai.php">
           <img src="./img/karagai-hero.png" alt="" />
         </a>
@@ -170,7 +170,7 @@
 
         <a href="./karagai.php" class="btn">Узнать больше</a>
       </div>
-      <div class="col m3">
+      <div class="col m3 mb-10">
         <a href="./shabanbay-bi.php">
           <img src="./img/shabanbay-bi-hero.png" alt="Каркаралы" />
         </a>
@@ -183,7 +183,7 @@
         </p>
         <a href="./shabanbay-bi.php" class="btn">Узнать больше</a>
       </div>
-      <!-- <div class="col m4 ">
+      <!-- <div class="col m3 mb-10">
         <a href="./karkarali.php">
           <img src="./img/karkarali-hero.png" alt="Каркаралы" />
         </a>
@@ -197,7 +197,7 @@
         </p>
         <a href="./karkarali.php" class="btn">Узнать больше</a>
       </div> -->
-      <div class="col m3">
+      <div class="col m3 mb-10">
         <a href="./yassaui.php">
           <img src="./img/yassaui-hero.png" alt="Ходжа Ахмет Яссауи" />
         </a>
