@@ -4,19 +4,19 @@
 <div class="carousel carousel-slider main-carousel">
   <a class="carousel-item" href="./karagai.php">
     <!-- <h2 class="center-the-text z-50">Скидки для детей до 50%</h2> -->
-    <img src="./img/karagai-6.png" />
+    <img src="./img/karagai-6.png" alt="Карагай" />
   </a>
   <a class="carousel-item" href="./kolsai.php">
-    <img src="./img/kolsai-6.png" />
+    <img src="./img/kolsai-6.png" alt="Кольсай" />
   </a>
   <a class="carousel-item" href="./karkarali.php">
-    <img src="./img/karkarali-3.png" />
+    <img src="./img/karkarali-3.png" alt="Каркаралы" />
   </a>
   <a class="carousel-item" href="./shabanbay-bi.php">
-    <img src="./img/shabanbay-bi-1.png" />
+    <img src="./img/shabanbay-bi-1.png" alt="Шабанбай би" />
   </a>
   <a class="carousel-item" href="./yassaui.php">
-    <img src="./img/yassaui-6.png" />
+    <img src="./img/yassaui-6.png" alt="Ходжа-Ахмед Яссауи" />
   </a>
 </div>
 
@@ -24,9 +24,9 @@
 <div class="container py-16">
   <div class="row">
     <div class="col m3">
-      <a href="./karagai.php" class="mb-4 block"><img src="./img/karagai-7.png" alt="" /></a>
-      <a href="./shabanbay-bi.php" class="mb-4 block"><img src="./img/shabanbay-bi-5.png" alt="" /></a>
-      <a href="./karkarali.php" class="mb-4 block"><img src="./img/karkarali-2.png" alt="" /></a>
+      <a href="./karagai.php" class="mb-4 block"><img src="./img/karagai-7.png" alt="Карагай" /></a>
+      <a href="./shabanbay-bi.php" class="mb-4 block"><img src="./img/shabanbay-bi-5.png" alt="Шабанбай-би" /></a>
+      <a href="./karkarali.php" class="mb-4 block"><img src="./img/karkarali-2.png" alt="Каркаралы" /></a>
     </div>
     <div class="col m6 my-10 md:my-0">
       <h2 class="uppercase text-medium text-center text-2xl mb-4">
@@ -114,9 +114,9 @@
       </div>
     </div>
     <div class="col m3">
-      <a href="./kolsai.php" class="mb-4 block"><img src="./img/kolsai-7.png" alt="" /></a>
-      <a href="./yassaui.php" class="mt-4 block"><img src="./img/yassaui-5.png" alt="" /></a>
-      <a href="./korgalzhin.php" class="mt-4 block"><img src="./img/korgalzhin-hero.png" alt="" /></a>
+      <a href="./kolsai.php" class="mb-4 block"><img src="./img/kolsai-7.png" alt="Кольсай" /></a>
+      <a href="./yassaui.php" class="mt-4 block"><img src="./img/yassaui-5.png" alt="Ходжа-Ахмед Яссауи" /></a>
+      <a href="./korgalzhin.php" class="mt-4 block"><img src="./img/korgalzhin-hero.png" alt="Коргальджин" /></a>
     </div>
   </div>
 </div>
@@ -145,7 +145,7 @@
       </div> -->
       <div class="col m3 mb-10">
         <a href="./kolsai.php">
-          <img src="./img/kolsai-hero.png" alt="" />
+          <img src="./img/kolsai-hero.png" alt="Кольсай" />
         </a>
         <h2 class="text-xl font-bold my-4">
           Эко - тур по озерам «Кольсай», «каинды» с проживанием в гостевых домах.
@@ -159,7 +159,7 @@
       </div>
       <div class="col m3 mb-10">
         <a href="./karagai.php">
-          <img src="./img/karagai-hero.png" alt="" />
+          <img src="./img/karagai-hero.png" alt="Кольсай" />
         </a>
         <h2 class="text-xl font-bold my-4">
           Экспедиция на одно из самых красивых мест Восточного Казахстана – Катон Карагай и Рахмановские ключи.
