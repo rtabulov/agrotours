@@ -48,18 +48,18 @@
       <div class="divider"></div>
     </li>
     <li>
-      <a class="flex items-center" href="#">
-        <i class="icon icon-telephone"></i>+7 777 777 7777
+      <a class="flex items-center" href="https://wa.me/77754503606">
+        <i class="icon icon-whatsapp"></i>+7 (775) 450 3606
       </a>
     </li>
     <li>
-      <a class="flex items-center" href="#">
-        <i class="icon icon-smartphone"></i>+7 777 777 7777
+      <a class="flex items-center" href="tel:+77754503606">
+        <i class="icon icon-smartphone"></i>+7 (775) 450 3606
       </a>
     </li>
     <li>
-      <a class="flex items-center" href="#">
-        <i class="icon icon-email"></i>info@agritourism.kz
+      <a class="flex items-center" href="maito:kazagritourism@gmail.com">
+        <i class="icon icon-email"></i>kazagritourism@gmail.com
       </a>
     </li>
   </ul>
@@ -67,25 +67,25 @@
   <nav class="teal">
     <div class="container nav-wrapper">
       <a href="./" class="brand-logo">
-        Agritourism.kz
+        Агротуризм.kz
       </a>
       <a href="#" data-target="slide-out" class="sidenav-trigger">
         <i class="material-icons">menu</i>
       </a>
       <ul class="right hide-on-med-and-down">
         <li>
-          <a class="flex items-center" href="#">
-            <i class="icon icon-telephone mr-2"></i>+7 777 777 7777
+          <a class="flex items-center" href="https://wa.me/77754503606">
+            <i class="icon icon-whatsapp mr-2"></i>+7 (775) 450 3606
           </a>
         </li>
         <li>
-          <a class="flex items-center" href="#">
-            <i class="icon icon-smartphone mr-2"></i>+7 777 777 7777
+          <a class="flex items-center" href="tel:+77754503606">
+            <i class="icon icon-smartphone mr-2"></i>+7 (775) 450 3606
           </a>
         </li>
         <li>
-          <a class="flex items-center" href="#">
-            <i class="icon icon-email mr-2"></i>info@agritourism.kz
+          <a class="flex items-center" href="maito:kazagritourism@gmail.com">
+            <i class="icon icon-email mr-2"></i>kazagritourism@gmail.com
           </a>
         </li>
       </ul>

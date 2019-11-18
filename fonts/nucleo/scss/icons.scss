@@ -12,6 +12,7 @@ $icon-facebook: unicode(ea05);
 $icon-youtube: unicode(ea06);
 $icon-email: unicode(ea07);
 $icon-twitter: unicode(ea08);
+$icon-whatsapp: unicode(ea09);
 
 .icon-telephone::before {
   content: $icon-telephone;
@@ -39,5 +40,9 @@ $icon-twitter: unicode(ea08);
 
 .icon-twitter::before {
   content: $icon-twitter;
+}
+
+.icon-whatsapp::before {
+  content: $icon-whatsapp;
 }
 

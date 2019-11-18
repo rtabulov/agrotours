@@ -174,3 +174,7 @@ icons
     content: "\ea08";
 }
 
+.icon-whatsapp::before {
+    content: "\ea09";
+}
+

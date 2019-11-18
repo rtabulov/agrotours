@@ -12,5 +12,11 @@ svg { stroke: #fff !important; color: #fff; }
 
 svg a:visited { stroke: #fff !important; color: #fff; }
 
-svg a:visited text { stroke: #fff !important; stroke-width: 0; fill: #fff; }
+svg a:visited text { stroke: #fff !important; fill: #fff; }
+
+.main-carousel { min-height: 800px !important; max-height: 800px !important; }
+
+.tour-carousel { min-height: 500px !important; max-height: 500px !important; }
+
+.carousel-item { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; }
 /*# sourceMappingURL=main.min.css.map */

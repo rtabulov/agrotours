@@ -182,3 +182,7 @@ Generated using nucleoapp.com
   content: "\ea08";
 }
 
+.icon-whatsapp::before {
+  content: "\ea09";
+}
+

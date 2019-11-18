@@ -32,14 +32,23 @@ svg {
     color: #fff;
     text {
       stroke: #fff !important;
-      stroke-width: 0;
       fill: #fff;
     }
-    // color: transparent !important;
-    // outline-color: transparent;
-    // border-color: transparent;
-    // text-decoration-color: transparent;
-    // fill: transparent;
-    // stroke: transparent;
   }
+}
+
+.main-carousel {
+  min-height: 800px !important;
+  max-height: 800px !important;
+}
+
+.tour-carousel {
+  min-height: 500px !important;
+  max-height: 500px !important;
+}
+
+.carousel-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
